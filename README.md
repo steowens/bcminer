@@ -1,0 +1,2 @@
+# bcminer
+bcminer
